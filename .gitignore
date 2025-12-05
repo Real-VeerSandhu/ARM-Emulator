@@ -1,0 +1,88 @@
+# Build directories
+build/
+bin/
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Executable
+/arm_emulator
+arm_emulator
+
+# IDE specific files
+.vscode/
+.vs/
+.idea/
+*.sln
+*.vcxproj*
+*.vcxproj.filters
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.opendb
+*.VC.db
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Test binaries
+tests/*.bin
+tests/*.o
+tests/*.bin.raw
+
+# Dependencies
+deps/
+
+# Local development files
+*.local
+.env
+*.local.*
+!.env.example
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Temporary files
+*.swp
+*~
+*.bak
+*.backup
+*.swo
+*.suo
+*.sdf
+*.opensdf
+*.opendb
+*.VC.db
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Test binaries
+tests/*.bin
+tests/*.o
+tests/*.bin.raw
+
+# Dependencies
+deps/
+
+# Local development files
+*.local
+.env
