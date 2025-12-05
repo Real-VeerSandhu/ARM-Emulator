@@ -1,6 +1,6 @@
 # ARM Emulator
 
-A simple ARMv8/AArch64 emulator written in C++
+A simple ARMv8 emulator written in C++
 
 ## Features
 
